@@ -45,7 +45,7 @@ Each step below corresponds to a task in the assignment. Shell commands for all 
 | File | Description |
 |------|-------------|
 | `cmds.sh` | All shell commands used during this project |
-| `16S.fa.gz` | 6S sequence file |
+| `16S.fa` | 6S sequence file |
 | `cds.gff.gz` | CDS prediction file |
 | `cds.log.gz` | CDS prediction logfile |
 | `top_ssu_alignments.xlsx` |16S blast results file  |
